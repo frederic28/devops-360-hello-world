@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8e34e4-bff8-46b3-a6b5-dedcc58e8907" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-world.yml" afterPath="$PROJECT_DIR$/hello-world.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roles/hello-world/tasks/main.yml" afterPath="$PROJECT_DIR$/roles/hello-world/tasks/main.yml" />
     </list>
     <ignored path="devops-360-hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,21 +33,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello-world.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello-world.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello-world.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding />
+              <folding>
+                <marker date="1520861079753" expanded="true" signature="13:32" ph="Install He..." />
+                <marker date="1520861079753" expanded="true" signature="52:76" ph="roles: &lt;1 item&gt;" />
+                <marker date="1520861079753" expanded="true" signature="65:76" ph="hello-worl..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/roles/hello-world/tasks/main.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="144">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -106,8 +110,8 @@
         <option value="$PROJECT_DIR$/roles/hello-world/templates/index.html.j2" />
         <option value="$PROJECT_DIR$/roles/hello-world/defaults/main.yml" />
         <option value="$PROJECT_DIR$/inventories/ubuntu/hosts" />
-        <option value="$PROJECT_DIR$/roles/hello-world/tasks/main.yml" />
         <option value="$PROJECT_DIR$/hello-world.yml" />
+        <option value="$PROJECT_DIR$/roles/hello-world/tasks/main.yml" />
       </list>
     </option>
   </component>
@@ -383,12 +387,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520852773787</updated>
-      <workItem from="1520852775272" duration="4110000" />
+      <workItem from="1520852775272" duration="4475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4110000" />
+    <option name="totallyTimeSpent" value="4475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="18" width="1316" height="750" extended-state="6" />
@@ -477,6 +481,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1520861079753" expanded="true" signature="13:32" ph="Install He..." />
+            <marker date="1520861079753" expanded="true" signature="52:76" ph="roles: &lt;1 item&gt;" />
+            <marker date="1520861079753" expanded="true" signature="65:76" ph="hello-worl..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/roles/hello-world/defaults/main.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -487,16 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/roles/hello-world/tasks/main.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-world.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
