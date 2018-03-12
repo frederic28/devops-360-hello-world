@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8e34e4-bff8-46b3-a6b5-dedcc58e8907" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventories/ubuntu/hosts" afterPath="$PROJECT_DIR$/inventories/ubuntu/hosts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roles/hello-world/defaults/main.yml" afterPath="$PROJECT_DIR$/roles/hello-world/defaults/main.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roles/hello-world/vars/main.yml" afterPath="$PROJECT_DIR$/roles/hello-world/vars/main.yml" />
     </list>
     <ignored path="devops-360-hello-world.iws" />
@@ -25,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hosts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hosts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inventories/ubuntu/hosts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -88,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/roles/hello-world/vars/main.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,8 +120,8 @@
         <option value="$PROJECT_DIR$/roles/hello-world/tasks/main.yml" />
         <option value="$PROJECT_DIR$/roles/hello-world/templates/index.html.j2" />
         <option value="$PROJECT_DIR$/roles/hello-world/defaults/main.yml" />
-        <option value="$PROJECT_DIR$/roles/hello-world/vars/main.yml" />
         <option value="$PROJECT_DIR$/inventories/ubuntu/hosts" />
+        <option value="$PROJECT_DIR$/roles/hello-world/vars/main.yml" />
       </list>
     </option>
   </component>
@@ -465,12 +463,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520852773787</updated>
-      <workItem from="1520852775272" duration="5830000" />
+      <workItem from="1520852775272" duration="5894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5830000" />
+    <option name="totallyTimeSpent" value="5894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="18" width="1316" height="750" extended-state="6" />
@@ -570,10 +568,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roles/hello-world/vars/main.yml">
+    <entry file="file://$PROJECT_DIR$/inventories/ubuntu/hosts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -586,10 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inventories/ubuntu/hosts">
+    <entry file="file://$PROJECT_DIR$/roles/hello-world/vars/main.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="144">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
