@@ -1,10 +1,2 @@
 ---
 # vars file for hello-world
-[ubuntu-1]
-hello_world_msg_vm: 'test vm1'
-
-[ubuntu-2]
-hello_world_msg_vm: 'test vm2'
-
-[ubuntu-3]
-hello_world_msg_vm: 'test vm3'
