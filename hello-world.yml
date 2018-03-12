@@ -1,0 +1,7 @@
+---
+
+- name: Install Hello-Wolrd
+  hosts: ubuntu
+
+  roles:
+    - hello-worlds
