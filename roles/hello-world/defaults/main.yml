@@ -1,3 +1,12 @@
 ---
 # defaults file for hello-world
 hello_world_msg: 'geoffrey'
+
+[ubuntu-1]
+hello_world_msg_vm: 'vm1'
+
+[ubuntu-2]
+  hello_world_msg_vm: 'vm2'
+
+[ubuntu-3]
+  hello_world_msg_vm: 'vm3'
