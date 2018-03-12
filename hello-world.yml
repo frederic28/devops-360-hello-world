@@ -4,4 +4,4 @@
   hosts: ubuntu
 
   roles:
-    - hello-worlds
+    - hello-world
