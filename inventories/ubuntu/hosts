@@ -7,7 +7,7 @@
 [ubuntu-3]
 172.16.115.3
 
-[ubuntu:childen]
+[ubuntu:children]
 ubuntu-1
 ubuntu-2
 ubuntu-3
